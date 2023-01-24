@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../quarkus-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/../quarkus-fault-tolerance/pom.xml" />
+        <option value="$PROJECT_DIR$/../quarkus-kafka-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/../Quarkus Kafka Sample/pom.xml" />
+        <option value="$PROJECT_DIR$/../Quarkus Fault Tolerance Sample/pom.xml" />
+        <option value="$PROJECT_DIR$/../Quarkus Infinispan Sample/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="OpenJDK_11" project-jdk-type="JavaSDK" />
+</project>
